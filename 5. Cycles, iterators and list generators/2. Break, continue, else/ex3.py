@@ -5,6 +5,7 @@ while True:
 
     if(x < 0): continue
     elif(x == 0): break
+    
     mult *= x
 
 print(mult)
